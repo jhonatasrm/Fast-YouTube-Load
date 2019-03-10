@@ -7,7 +7,7 @@ YouTube page load is 5x slower in Firefox than in Chrome because YouTube's Polym
 * Firefox 57.0 or later
 
 ## Version
-* Currently in the version 1.2
+* Currently in the version 1.3
 
 ## How Contribute
 Have a suggestion, doubt or encountered an error? Please open a new [issue](https://github.com/jhonatasrm/Fast-YouTube-Load/issues).
