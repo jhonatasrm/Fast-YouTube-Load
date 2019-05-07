@@ -10,7 +10,7 @@ YouTube page load is 5x slower in Firefox than in Chrome because YouTube's Polym
 * Currently in the version 1.3
 
 ## How Contribute
-Have a suggestion, doubt or encountered an error? Please open a new [issue](https://github.com/jhonatasrm/Fast-YouTube-Load/issues).
+Have a suggestion, doubt or encountered an error? Please open a new [issue](https://github.com/jhonatasrm/Fast-YouTube-Load/issues)
 
 ### Donate
 Would you like to contribute to the development of this and other add-ons that can be found <a href="https://addons.mozilla.org/en-US/firefox/user/13670188/">here</a> ? 
@@ -22,4 +22,4 @@ Thank you so much for helping me continue developing this and other add-ons! <3
 You can donate via PayPal <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jhonatasrm@gmail.com&lc=US&item_name=Donation+to+Fast+Youtube+Load&no_note=0&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted">here</a>. Thanks again! 
 
 ## Learn More 
-To learn more about webextensions development, see this [Mozilla developer Network documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions).
+To learn more about webextensions development, see this [Mozilla developer Network documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
