@@ -1,0 +1,9 @@
+{
+  "extensionName": {
+    "message": "Fast YouTube Load",
+    "description": "Extension name."
+  },
+  "extensionDescription": {
+    "message": "YouTube page load is 5x slower in Firefox than in Chrome because YouTube's Polymer redesign relies on the deprecated Shadow DOM v0 API only implemented in Chrome. This Add-on helps you to load more faster the page in your Firefox."
+  }
+}

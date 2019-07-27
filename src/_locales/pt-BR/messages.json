@@ -1,0 +1,9 @@
+{
+  "extensionName": {
+    "message": "Fast YouTube Load",
+    "description": "Extension name."
+  },
+  "extensionDescription": {
+    "message": "O carregamento da página do YouTube é 5x mais lenta no Firefox do que no Chrome, porque o redesign de polímeros do YouTube depende da API do Shadow DOM V0 que é apenas implementada no Chrome. Esta extensão ajuda você a carregar mais rápido a página no seu Firefox."
+  }
+}

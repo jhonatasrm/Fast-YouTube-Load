@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "version": "1.4",
+  "author": "Jhonatas Rodrigues",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "icons": {
+    "16": "images/yt_fast_load16.png",
+    "32": "images/yt_fast_load32.png",
+    "48": "images/yt_fast_load48.png",
+    "128": "images/yt_fast_load128.png"
+  },
+  "background": {
+    "scripts": ["js/background.js"]
+  },
+  "permissions": [
+    "webRequestBlocking",
+    "webRequest",
+    "*://www.youtube.com/*"
+  ]
+}

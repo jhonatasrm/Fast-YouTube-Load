@@ -3,14 +3,15 @@
 
 YouTube page load is 5x slower in Firefox than in Chrome because YouTube's Polymer redesign relies on the deprecated Shadow DOM v0 API only implemented in Chrome. This extension helps you to load more faster the page in your Firefox.
 
+![Fast-YouTube-Load Screenshot](Fast-YouTube-Load.png)
+
 ## Requirements
 * Firefox 57.0 or later
 
-## Version
-* Currently in the version 1.3
-
 ## How Contribute
 Have a suggestion, doubt or encountered an error? Please open a new [issue](https://github.com/jhonatasrm/Fast-YouTube-Load/issues)
+
+Contributions are welcome, feel free to submit a pull :)
 
 ### Donate
 Would you like to contribute to the development of this and other Add-ons that can be found <a href="https://addons.mozilla.org/en-US/firefox/user/13670188/">here</a> ? 
