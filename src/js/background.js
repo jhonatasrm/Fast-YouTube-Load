@@ -7,12 +7,11 @@ const youtubeURL = "https://www.youtube.com/*";
 // context
 const context = "browser" in window ? window.browser : window.chrome;
 
-// webRequest to Context
 context.webRequest.onBeforeSendHeaders.addListener(ijctCookie,{ urls: [youtubeURL], types: ["main_frame"] },["blocking", "requestHeaders"]);
 
 function Cookies(cookie_rcv) {
-  this.cookie = cookie_rcv // cookie received
-    .split(";") // split with ;
+  this.cookie = cookie_rcv
+    .split(";")
     .map(item => item.trim())
     .filter(item => item.length > 0)
     .map(item => {
@@ -24,7 +23,6 @@ function Cookies(cookie_rcv) {
     });
 }
 
-//
 Cookies.prototype.set = function(name, value) {
   var item = this.item(name);
   if (item) {
@@ -37,17 +35,14 @@ Cookies.prototype.set = function(name, value) {
   }
 };
 
-//
 Cookies.prototype.item = function(name) {
   return this.cookie.find(item => item.name === name);
 };
 
-// stringify the cookies
 Cookies.prototype.stringify = function() {
   return this.cookie.map(item => item.name + "=" + item.value).join("; ");
 };
 
-// function inject Cookie
 function ijctCookie(event) {
 var headerCookie = event.requestHeaders.find(function(header) {
     return header.name.toLowerCase() === "cookie";
@@ -74,7 +69,6 @@ headerCookie.value = storeCookie.stringify();
 return { requestHeaders: event.requestHeaders };
 }
 
-// prototype get and return item.value or default_value
 Cookies.prototype.get = function(name, default_value) {
     var item = this.item(name);
     return item ? item.value : default_value;
