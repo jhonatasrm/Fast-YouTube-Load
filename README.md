@@ -20,7 +20,7 @@ To make loading faster there are several procedures that even change the appeara
 ## How Contribute
 Have a suggestion, doubt or encountered an error? Please open a new [issue](https://github.com/jhonatasrm/Fast-YouTube-Load/issues)
 
-Contributions are welcome, feel free to submit a pull :)
+Contributions are welcome, feel free to submit a PR! :)
 
 ## Learn More 
 To learn more about webextensions development, see this [Mozilla developer Network documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
