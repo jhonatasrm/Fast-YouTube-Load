@@ -7,7 +7,7 @@
 ![Fast-YouTube-Load Screenshot](youtube_fast_load.png)
 # Fast Youtube Load [<img align="right" src="https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_2.png">](https://addons.mozilla.org/en-US/firefox/addon/fast-youtube-load/)
 
-YouTube page load is 5x slower in Firefox than in Chrome because YouTube's Polymer redesign relies on the deprecated Shadow DOM v0 API only implemented in Chrome. This extension helps you to load more faster the page in your Firefox.
+YouTube page load is 5x slower in Firefox than in Chrome because YouTube's Polymer redesign relies on the deprecated Shadow DOM v0 API only implemented in Chrome. This extension helps you to load faster the page in your Firefox.
 
 ![Fast-YouTube-Load Screenshot](Fast-YouTube-Load.png)
 
