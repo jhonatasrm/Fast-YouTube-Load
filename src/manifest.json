@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
-  "version": "1.4",
+  "version": "1.4.1",
   "author": "Jhonatas Machado",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
@@ -14,9 +14,5 @@
   "background": {
     "scripts": ["js/background.js"]
   },
-  "permissions": [
-    "webRequestBlocking",
-    "webRequest",
-    "*://www.youtube.com/*"
-  ]
+  "permissions": ["webRequestBlocking", "webRequest", "*://www.youtube.com/*"]
 }
