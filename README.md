@@ -23,9 +23,11 @@ Have a suggestion, doubt or encountered an error? Please open a new [issue](http
 Contributions are welcome, feel free to submit a PR! :)
 
 ### Bitcoin (BTC)
-[bc1qkxka7h3rxhejefyjp30agzywpyt2hw9manscyw](https://www.blockchain.com/btc/address/bc1qkxka7h3rxhejefyjp30agzywpyt2hw9manscyw)
-### Cardano (ADA)
-wallet: addr1qx5yy9n2zenu978se4quqhtx6jnvp8a22dlpcxecycz88u6j44dmwz9qy4tpqzxrwfjdwrn4gm3pfz6xq2usnc2xpcaq0dm6fe
+[15FHoQNqwz7wzAa3bgaKTJ9GknCDE7RXhH](https://www.blockchain.com/btc/address/15FHoQNqwz7wzAa3bgaKTJ9GknCDE7RXhH)
+
+### Litecoin (LTC)
+
+LKzFPwvhxCfiXYmQbc1huu75jxsTmmEXbG
 
 ## Learn More 
 To learn more about webextensions development, see this [Mozilla developer Network documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
