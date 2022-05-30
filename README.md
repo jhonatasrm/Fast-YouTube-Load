@@ -1,3 +1,5 @@
+<img style="position:absolute;z-index:1001;width:150px;height:150px;" src="https://i.ibb.co/RCKf6pH/discontinued.png" alt="discontinued" border="0">
+
 [<img align="right" src="https://img.shields.io/github/issues/jhonatasrm/Fast-YouTube-Load.svg">](https://github.com/jhonatasrm/Fast-YouTube-Load/issues)
 [<img align="right" src="https://img.shields.io/github/license/jhonatasrm/Fast-YouTube-Load.svg">](https://github.com/jhonatasrm/Fast-YouTube-Load/blob/master/LICENSE)
 [<img align="right" src="https://img.shields.io/github/forks/jhonatasrm/Fast-YouTube-Load.svg">]()
